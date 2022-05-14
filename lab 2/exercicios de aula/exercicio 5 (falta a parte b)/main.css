@@ -1,0 +1,174 @@
+header{
+    background-color: #008B8B;
+    padding: 0.25rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 20.1rem;
+
+    
+
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+    margin: 0px;
+}
+
+nav{
+
+    float: left;
+    padding: 2rem;
+}
+
+
+nav a{
+    padding-top: 6px;
+    padding-top: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-top: 0px;
+    margin-left: 6px;
+    margin-right: 6px;
+    background-color: #eee;
+    border-radius: 25px;
+    text-decoration: none;
+    border-bottom: white;
+    border-bottom-style: solid;
+    border-width: 5px;
+}
+
+nav a:hover{
+    border-color: #444;
+}
+
+input{
+    float: right;
+    background-color:#524942;
+    color:grey;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+input:focus{
+    background-color: black;
+    color: yellow;
+}
+
+
+
+main{
+    margin-left: 22rem;
+}
+
+section{
+    position: center;
+    background-color: white;
+    width: 80%;
+    margin-top: 6rem;
+    padding: 1.25rem;
+
+}
+
+.img{
+    float: left;
+    margin: 0;
+}
+
+.aii{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    margin-left: 10rem;
+    margin-right: 2rem;
+    padding: 0;
+}
+
+.qwerty {
+
+    color: white;
+    margin-bottom: 0px;
+    text-align: right;
+}
+span{
+    background-color: #008B8B ;
+    border-radius: 25px;
+    padding: 4px;
+}
+.install{
+    color: white;
+    border-radius: 25px;
+    text-align: left;
+    padding: 4px;
+}
+
+.pizza{
+    background-color: #008B8B ;
+    border-radius: 25px;
+    padding: 4px;
+}
+
+
+.legenda{
+    float: right;
+    font-size: 0.7rem;
+    padding-top: 1rem;
+}
+
+div{
+    border-bottom: #008B8B;
+    border-style: dashed;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+p{
+    padding-top: 40px;
+    
+}
+
+
+aside{
+    text-align: center;
+    width: 6rem;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 7em;
+    background-color: #ccc;
+}
+
+
+
+.cenadelado{
+    position: absolute;
+    bottom: 6rem;
+    left: 2rem;
+    right: 2rem;
+    background-color: transparent;
+}
+.bolinha{
+    width: 7rem;
+    border-width: 8px;
+    border-style: solid;
+    border-color: #008B8B;
+    border-radius: 100%;
+}
+
+.mfig {
+    font-size: 3.5rem;
+}
+
+.textmfig {
+    text-align: center;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    margin-top: -15px;
+    margin-bottom: -120px;
+}
