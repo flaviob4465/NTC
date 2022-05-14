@@ -1,0 +1,179 @@
+header{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+
+    /* margin-top: 0%;
+    margin-bottom: 0%; */
+    /* padding-right: 15%; */
+    /* text-align: right; */
+}
+
+.logo{
+    background-image: url(imgs/whipped_cream.jpg);
+    height: 288px;
+}
+
+.overlap{
+    /* position: absolute;  */
+    /* left: 24%; */
+    margin: auto;
+
+}
+nav{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2.5rem;
+}
+
+a:link, a:visited {
+
+    color: brown;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-image: url(imgs/bg_striped.gif);
+    margin: 0;
+}
+
+main{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+}
+
+.sec1{
+
+    background-color: bisque;
+    text-align: center;
+    width: 500px;
+    /* height: 200px; */
+    padding: 20px;
+    margin-bottom: 40px;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.sec2{
+
+    background-color: bisque;
+    text-align: center;
+    width: 75%;
+    /* height: 200px; */
+    padding: 20px;
+    margin-bottom: 40px;
+    margin: auto;
+    border-radius: 25px;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+
+}
+
+.audio{
+    margin-top: 25px;
+}
+
+#textodosom{
+    text-align: center;
+    margin-top: 38px;
+    color: #333;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.art1{
+    margin-top: 0%;
+    padding: 5px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+p{
+    font-size: 1.4rem;
+    line-height: 30px;
+    text-align: left; 
+    /* margin: 10px; */
+    padding-left: 10px;
+}
+
+.p1{
+    color: #333;
+    font-size: 2rem;
+    line-height: 60px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+    text-align: center;
+}   
+
+.subttl{
+    text-align: left;
+    background-color: #dc324c;
+    font-size: 2rem;
+    color: white;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0;
+}
+
+.img1{
+    width: 300px;
+}
+
+.ttldiferente{
+    font-size: 2rem;
+    line-height: 30px;
+    text-align: left;
+    color: brown;
+}
+
+.ponto {
+    list-style-image: url('imgs/bullet.gif');
+  }
+
+  .ponto2{
+
+
+    list-style-type: disc;
+    list-style-image: none;
+  }
+  .pdiferente{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+footer{
+    background-color: white;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+#naoalinha{
+    text-align: center;
+}
+.oioi a:link, a:visited {
+    color: brown;
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+/* .logo2{
+    background-image:url(imgs/whipped_cream.jpg);
+    margin: 15%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: right;
+} */

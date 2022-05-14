@@ -1,0 +1,140 @@
+header{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+}
+
+.logo{
+    background-image: url(imgs/whipped_cream.jpg);
+    height: 288px;
+}
+nav{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2.5rem;
+}
+
+.eq{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+a:link, a:visited {
+
+    color: darkred;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-image: url(imgs/bg_striped.gif);
+    margin: 0;
+}
+
+main{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+}
+
+.sec1{
+
+    background-color: bisque;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 40px;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.sec2{
+
+    background-color: bisque;
+    text-align: center;
+    width: 75%;
+    padding: 20px;
+    margin-bottom: 40px;
+    margin: auto;
+    border-radius: 25px;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+
+}
+
+.audio{
+    margin-top: 25px;
+}
+
+#textodosom{
+    text-align: center;
+    margin-top: 38px;
+    color: #333;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.art1{
+    margin-top: 0%;
+    padding: 5px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+p{
+    font-size: 1.4rem;
+    line-height: 30px;
+    text-align: left; 
+    padding-left: 10px;
+}
+
+.p1{
+    color: brown;
+    font-size: 2rem;
+    line-height: 60px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+    text-align: center;
+}   
+
+.subttl{
+    text-align: left;
+    font-size: 2rem;
+    color: #dc324c;
+    padding-left: 0;
+    border-bottom: #dc324c;
+    border-width: 3px;
+    border-top-width: 0px;
+    border-left-width: 0px ;
+    border-right-width: 0px ;
+    border-style: solid;
+    /* falar com o prof, tem que haver uma forma mais fácil */
+}
+
+
+.ttldiferente{
+    font-size: 2rem;
+    line-height: 30px;
+    text-align: left;
+    color: brown;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+#naoalinha{
+    text-align: center;
+}
+.oioi a:link, a:visited {
+    color: brown;
+    text-decoration: line-through;
+}
+
