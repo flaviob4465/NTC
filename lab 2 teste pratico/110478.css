@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    /* position: fixed; */
+    width: 100%;
+    z-index: -1;
+    background-color: white;
+    padding: 20px;
+    height: 90px;
+}
+
+nav{
+    float: right;
+    margin-right: 30px;
+    margin-top: 1rem;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #0c91ba;
+    border-color: #ffa66d;
+}
+
+.abteordr{
+    color: black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px;
+    border-style: solid;
+}
+
+
+
+body{
+    background-image: url("imagens/fundo.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+
+}
+
+
+
+main{
+    position: relative;
+    background-color: white;
+    width: 1000px;
+    margin-top: 9rem;
+    margin: 9rem auto;
+
+
+}
+
+section{
+    padding: 1rem;
+}
+
+.ttl{
+    background-color: #0c91ba;
+    color: white;
+    text-align: center;
+}
+
+.subttl{
+    text-align: left;
+    background-color: black;
+    color: white;
+
+}
+
+figure{
+    float: left;
+    margin: 20px;
+    text-align: left;
+    margin-left: 0;
+    width: 254px;
+
+}
+figcaption{
+    color: #0c91ba;
+    text-align: center;
+}
+
+
+.sapato{
+    border: #0c91ba;
+    border-width: 2px;
+    border-style: solid;
+}
+
+p{
+    padding-top: 0.5rem;
+    text-align: left;
+
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+
+  }
+
+  .email{
+    width: 100%;
+}
+
+  @media only screen and (max-width:599px) {
+
+
+.logo{
+    display: none;
+}
+
+nav{
+    margin-right: 29%;
+
+}
+
+main{
+
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.email{
+    width: 100%;
+}
+
+      
+  }
