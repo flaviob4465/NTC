@@ -1,0 +1,83 @@
+/*folha de estilos*/
+
+* {
+    /* background-color: #efefef; */ 
+    /* nao se põe cores nos asteriscos */
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    background-color: #EFEFEF;
+    color: #101;
+    /* color: white; cor do texto do corpo */
+    font-size:20px;
+}
+
+header{
+    background-color: #101;
+    color: #EFEFEF;
+    text-align: center;
+}
+
+p,article{
+    text-align: center;
+    color: white;
+
+}
+
+/* b{
+    color: #EFE000;
+} */
+
+h1{
+    color: #EFE000;
+    
+}
+
+h3{
+    text-align: left;
+}
+.dhead{
+    color: #EFE000;
+}
+
+.benf{
+    background-color: #c00;
+}
+
+.fcp{
+    background-color: #26267f;
+}
+
+.scp{
+    background-color: #2D952D;
+}
+
+.bv{
+    background-color: #101;
+}
+
+.bel{
+    background-color: #7a7acb;
+}
+
+footer{
+    color: black;
+}
+
+.vit{
+    text-align: right;
+}
+
+.sub{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+/* p,b{
+
+    
+  background-color: coral;
+
+} */
