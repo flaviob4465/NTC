@@ -1,0 +1,101 @@
+header{
+    background-color: #1a1a1a ;
+}
+
+nav{
+    background-color: #c03328;
+    text-align: center;
+    line-height: 95px;
+}
+
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+}
+
+
+footer{
+    background-color: #4a4a4a; 
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+  
+}
+.txtfooter{
+    text-align: center;
+    color: white;
+}
+.title{
+
+    text-align: center;
+    background-color: #1a1a1a;
+    color: white;
+    font-size: 180px;
+    line-height: 250px;
+
+}
+
+article{text-align: center;
+
+}
+
+p{
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-size: 46px;
+    color: #c03328;
+}
+
+h3{
+    text-align: left;
+}
+
+.btt{
+    text-align: right;
+}
+
+#annie{
+    font-weight: bold;
+}
+
+
+
+
+a{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+nav a:link, nav a:visited{
+    color: white
+}
+
+
+a:hover{
+    background-color: aqua;
+}
+
+/* , a:link{
+
+    color: #135cab;
+} */
+
+nav a:hover{
+    /* color: yellow; */
+    background-color: white;
+    color: #c03328;
+}
+
+
+
+/* .hover{
+    background-color: aqua;
+} */
+
+/* subtitulos = h3 */
